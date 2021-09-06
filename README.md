@@ -1,0 +1,2 @@
+# Riddle
+ * program in which the user tries to guess which item is being referred to with  * a series of clues. The program will present the user with one clue at a time.  * If the user gets it right, that item is done and it moves on to another. Give  * the user up to three clues for each item. Have the user go through 3 rounds  * of this, and assign them a score based on how many tries it took for each  * item. The items should be selected at random for a pool of 15 items  * 
