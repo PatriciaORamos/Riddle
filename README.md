@@ -1,2 +1,7 @@
-# Riddle
- * program in which the user tries to guess which item is being referred to with  * a series of clues. The program will present the user with one clue at a time.  * If the user gets it right, that item is done and it moves on to another. Give  * the user up to three clues for each item. Have the user go through 3 rounds  * of this, and assign them a score based on how many tries it took for each  * item. The items should be selected at random for a pool of 15 items  * 
+# Jogo Advinhe a palavra
+ * O programa no qual o usuário tenta adivinhar qual item está sendo referido com uma série de pistas. 
+ * O programa apresentará ao usuário uma pista de cada vez. 
+ * Se o usuário acertar, o item está pronto e passa para outro. 
+ * Dê ao usuário até três pistas para cada item. 
+ * Faça com que o usuário passe por 3 rodadas atribuindo a eles uma pontuação com base em quantas tentativas foram necessárias para cada item. 
+ * Os itens devem ser selecionados aleatoriamente para um conjunto de 15 itens
